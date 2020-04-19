@@ -1,0 +1,15 @@
+galaxy_info:
+  author: Stas Stavnichuk
+  description: change timezone
+  license: MIT
+  min_ansible_version: 1.4
+  platforms:
+  - name: Debian
+    versions:
+    - buster
+    - jessie
+    - squeeze
+    - wheezy
+  galaxy_tags:
+    - hostname
+    - debian
