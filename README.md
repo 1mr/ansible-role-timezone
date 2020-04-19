@@ -1,11 +1,13 @@
+[![Build Status](https://travis-ci.com/1mr/ansible-role-timezone.svg?branch=master)](https://travis-ci.com/1mr/ansible-role-timezone)
+
 Role Name
 =========
 
-timezone
+Configures timezone on Debian servers.
 
 Requirements
 ------------
-
+None.
 
 Role Variables
 --------------
@@ -31,3 +33,5 @@ MIT
 
 Author Information
 ------------------
+
+This role was created by Stas Stavnichuk.
