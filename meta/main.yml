@@ -8,8 +8,7 @@ galaxy_info:
     versions:
     - buster
     - jessie
-    - squeeze
-    - wheezy
   galaxy_tags:
     - timezone
+    - system
     - debian
